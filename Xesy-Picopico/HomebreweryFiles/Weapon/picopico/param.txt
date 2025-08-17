@@ -1,0 +1,22 @@
+{
+  "_statStruct": {
+	"_criticalRate": 0.025,
+	"_magicCriticalRate": 0.025,
+	"_attackPower": 4
+  },
+  "weaponType": "Strength_Melee_2H",
+  "_weaponHoldClipIndex": 0,
+  "_weaponDamage": 45,
+  "_damageBonus": 15,
+  "_enchantCostItem": "",
+  "_combatElement": 0,
+  "_scriptableCondition": "Burn",
+  "_chance": 0.05,
+  "_trailColor1": "#702012",
+  "_trailColor2": "#702012",
+  "weaponMesh": "Xesy-Picopico-Mesh-picopico",
+  "_hitSound": "Xesy-Picopico-SFX-picopico",
+  "_itemName": "PicoPico",
+  "_itemDescription": "'Cute Girls with Big Hammer's Unite!'.'\nCreated by Xesy.",
+  "_itemRarity": "1"
+}

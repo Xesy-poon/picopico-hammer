@@ -1,0 +1,9 @@
+{
+	"name": "PicoPico Hammer",
+	"description": "Amy Rose's PicoPico Hammer. (Homebrewery weapon)",
+	"version_number": "1.0.0",
+	"dependencies": [
+		"Catman232-Homebrewery-4.0.0"
+	],
+	"website_url": ""
+}
